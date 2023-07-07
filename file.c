@@ -1,4 +1,4 @@
-// Dhruv Kadam	    - Last Contributor
+// mansi soni
 #include <stdio.h>
 int main() {    
 
